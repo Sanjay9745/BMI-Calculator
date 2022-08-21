@@ -62,7 +62,7 @@ function Form({ getData }) {
             </div>
             <div className="col col-sm-6">
               <div className="my-3">
-              <label className="form-label">Height m or cm :</label> 
+              <label className="form-label">Height m or cm</label> 
               
                 <input
                   type="text"
